@@ -12,7 +12,7 @@ In order to install the Team Profile Generator, the user must download the code 
 
 To run the application, enter 'node index.js' in the command prompt and respond to the prompted questions. 
 
-A Walkthrough video of the Team Profile Generator is available [here](link TBD).
+A Walkthrough video of the Team Profile Generator is available [here](https://watch.screencastify.com/v/GQzDpucP4voZy7oUSafo).
 
 Future areas of opportunity include adding team photos, phone numbers, and possibly even hierarchy oragnization for larger teams.
 
